@@ -1,4 +1,5 @@
 # crudvue
+> Este crud requiere una API para funcionar.
 
 ## Project setup
 ```
